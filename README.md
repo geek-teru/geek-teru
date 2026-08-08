@@ -38,8 +38,21 @@
 
 [![Skills](https://skillicons.dev/icons?i=git,github,githubactions,jenkins,vscode&perline=8)](https://skillicons.dev)
 
-> ☁️ AWS: VPC / IAM / Lambda / ECS / ALB / RDS Aurora / S3 / Glue / Athena / Redshift / SageMaker / Step Functions / Cognito / CloudTrail / Config / WAF
-> 🔍 Observability: Datadog / Fluentd / CloudWatch / BigQuery
+### ☁️ AWS Services
+
+| カテゴリ | サービス |
+|---------|---------|
+| Compute / Container | EC2 / ECS / Lambda |
+| Network / Security | VPC / IAM / ALB / WAF / Cognito / CloudTrail / Config |
+| Storage / Database | S3 / RDS Aurora / Redshift |
+| Data / Analytics | Glue / Athena / SageMaker / Step Functions |
+
+### 🔍 Observability
+
+| カテゴリ | ツール |
+|---------|--------|
+| Monitoring / APM | Datadog / CloudWatch |
+| Logging | Fluentd / BigQuery |
 
 ---
 
@@ -58,24 +71,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geek-teru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=geek-teru&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-teru&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geek-teru&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=geek-teru&style=flat-square&color=blue" alt="Profile Views" />
