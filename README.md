@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 こんにちは、geek-teru です
+# こんにちは、てる です👋
 
 **フリーランスの インフラ / SRE / クラウドエンジニア**
 🏗️ AWS を中心としたクラウド基盤の設計・構築・運用 / IaC / データ基盤 / SRE
@@ -9,36 +9,36 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- ☁️ **2020年8月〜 フリーランスエンジニア**として活動中
-- 🏦 金融・広告領域で **高セキュリティ要件を満たすクラウド基盤**を数多く構築
-- 🔧 **AWS / Terraform / Go / Python** を軸に、インフラからアプリまで幅広く対応
-- 📊 データレイク・DWH・ETL パイプラインなど **データ分析基盤**の構築経験
-- 🚀 SRE として国内最大規模（数千万アクセス/日）サービスの **可用性・信頼性向上**に従事
-- 🤝 案件リーダー・PL としてのプロジェクト推進、チーム間調整の経験
+- **2020年8月〜 フリーランスエンジニア**として活動中
+- 金融・広告領域で **高セキュリティ要件を満たすクラウド基盤**を数多く構築
+- **AWS / Terraform / Go / Python** を軸に、インフラからアプリまで幅広く対応
+- データレイク・DWH・ETL パイプラインなど **データ分析基盤**の構築経験
+- SRE として国内最大規模（数千万アクセス/日）サービスの **可用性・信頼性向上**に従事
+- 案件リーダー・PL としてのプロジェクト推進、チーム間調整の経験
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 [![Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,nginx,linux&perline=8)](https://skillicons.dev)
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 
 [![Skills](https://skillicons.dev/icons?i=go,python,ruby,bash&perline=8)](https://skillicons.dev)
 
-### 🗄️ Data & Database
+### Data & Database
 
 [![Skills](https://skillicons.dev/icons?i=postgres,mysql,redis&perline=8)](https://skillicons.dev)
 
-### 🔨 Tools & CI/CD
+### Tools & CI/CD
 
 [![Skills](https://skillicons.dev/icons?i=git,github,githubactions,jenkins,vscode&perline=8)](https://skillicons.dev)
 
-### ☁️ AWS Services
+### AWS Services
 
 | カテゴリ | サービス |
 |---------|---------|
@@ -47,7 +47,7 @@
 | Storage / Database | S3 / RDS Aurora / Redshift |
 | Data / Analytics | Glue / Athena / SageMaker / Step Functions |
 
-### 🔍 Observability
+### Observability
 
 | カテゴリ | ツール |
 |---------|--------|
@@ -56,7 +56,7 @@
 
 ---
 
-## 💼 Career Highlights
+## Career Highlights
 
 | 期間 | 案件 | ロール / キーワード |
 |------|------|--------------------|
@@ -67,7 +67,7 @@
 | 2018.11–2019.03 | メガバンク オンプレ→AWS 移行（約100VM） | 設計・構築 / 金融セキュリティ要件 |
 
 <div align="center">
-  <sub>📄 職務経歴の詳細はレジュメ / ブログをご覧ください</sub>
+  <sub>職務経歴の詳細はレジュメ / ブログをご覧ください</sub>
 </div>
 
 ---
