@@ -9,7 +9,6 @@
 - ご依頼：nan1102.business@gmail.com
 - プロフィール・個人ブログ：https://my-blog-2-nu.vercel.app/
 
----
 
 ## About Me
 
@@ -20,8 +19,6 @@
 - 金融・広告などのエンタープライズで **高セキュリティ要件を満たすクラウド基盤**を数多く経験
 - SRE として国内最大規模（数千万アクセス/日）サービスの **可用性・耐障害性・可観測性向上**
 - 案件リーダー・PM/PL としてのプロジェクト推進、チーム間調整の経験
-
----
 
 ## Tech Stack
 
@@ -57,9 +54,8 @@
 | Monitoring / APM | Datadog / CloudWatch |
 | Logging | Fluentd / BigQuery |
 
----
 
-## Career Highlights
+## Career
 
 | 期間 | 案件 | ロール / キーワード |
 |------|------|--------------------|
