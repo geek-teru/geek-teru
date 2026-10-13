@@ -6,7 +6,8 @@
 - **フリーランスの インフラ / SRE / クラウドエンジニア**
 - AWS を中心としたクラウド基盤の設計・構築・運用 / IaC / データ基盤 / SRE
 - 2026/10現在、ビジネスアワー稼働中。ビジネスアワー外の副業としての対応は可能です。
-- https://my-blog-2-nu.vercel.app/
+- ご依頼：nan1102.business@gmail.com
+- プロフィール・個人ブログ：https://my-blog-2-nu.vercel.app/
 
 ---
 
